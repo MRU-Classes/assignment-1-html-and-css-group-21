@@ -1,0 +1,99 @@
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #C4DFF6;
+    color: rgb(0, 0, 0);
+}
+
+header, footer {
+  background-color: #2D2D2D;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+header img {
+  width: 150px;
+  height: auto;
+  margin: 0.5em 0;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background-color: #1e1e1e;
+}
+
+nav li {
+  margin: 0 1em;
+}
+
+nav a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  padding: 0.5em 1em;
+  display: block;
+}
+
+nav a:hover {
+  background-color: #0055A5;
+}
+
+nav a.active {
+  background-color: #007acc;
+  border-radius: 4px;
+}
+
+main {
+  padding: 2em;
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Float image to the right of paragraph */
+.floatright {
+  float: right;
+  margin-left: 1em;
+  width: 400px;
+  height: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 2em;
+}
+
+th, td {
+  border: 1px solid #000000;
+  padding: 0.75em;
+  text-align: left;
+}
+
+th {
+  background-color: #ffffff;
+}
+
+tr:nth-child(even) {
+  background-color: #eaf4fb;
+}
+
+tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #2D2D2D;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+  font-size: 0.9em;
+}
