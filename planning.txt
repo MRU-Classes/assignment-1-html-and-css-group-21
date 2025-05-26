@@ -1,1 +1,46 @@
 NOTE: Add a link to Trello, another planning tool, or replace this file with your own planning file.
+
+
+Three separate HTML pages home.html, content.html, contact.html - done
+
+Semantic HTML5 tags used (header, nav, main, section, footer) - done
+
+Proper file names and titles for each page - done
+
+Logo included on all pages (local file, alt set) - done
+
+Consistent navigation bar across all pages - done
+
+External CSS file linked (style_sheet/style.css) - done
+
+Local images folder (/images/) used correctly - done
+
+All <img> tags have alt attributes - done 
+
+Images styled by ID or section img CSS - done 
+
+Footer styled and consistent - done 
+
+Jump link (#table) that scrolls to salary table -done works on 1080p monitor not on 4k monitor ? --- FIGUREOUT WHY ????????????????????
+
+Includes 4 career sections: Software Dev, Cybersecurity, Project Manager, Data Analyst - done 
+
+Each section includes one image - done  
+
+Form uses mailto: in the action attribute - done 
+
+Required input: subject (with maxlength) - done 
+
+Required textarea: message body - done 
+
+Required email field with placeholder and regex pattern - done 
+
+Optional telephone field with placeholder and regex pattern - done 
+
+Radio buttons with 2+ options - done   yes no 
+
+
+Reset button - done 
+
+Submit button - done 
+
